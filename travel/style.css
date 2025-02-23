@@ -1,0 +1,81 @@
+.link
+{
+    text-decoration: none;
+    color: white;
+    background-color: cornflowerblue;
+    padding: 10px;
+    text-align: center;
+
+}
+.navi-bar
+{
+    background-color: white;
+}
+.container
+{
+    margin: bottom 10px;
+}
+h2
+{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h4{
+    text-align: center;
+}
+.box
+{
+    padding: 20px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.row1
+{
+    margin:20px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.btn
+{
+    
+    background-color:rgb(17, 26, 81) ;
+    color:white;
+    
+}
+.row3
+{
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.buttons
+{
+    background-color:rgb(17, 26, 81) ;
+    color:aliceblue;
+    
+}
+.image
+{
+    text-align: center;
+}
+.summary
+ {
+  display: none;
+ }
+.heading
+{
+    font-weight: bolder;
+}
+.container
+{
+    background-color:rgb(17, 26, 81) ;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    bottom: 0;
+    width: 100%;
+}
